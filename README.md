@@ -21,7 +21,7 @@
 
 ## ChatGPT
 
-国内可用镜像站（无需科学工具直达）：[1](https://chat.forchange.cn/) | [2](https://so.csdn.net/so/chat) | [3](http://chat.h2ai.cn/home) | [4](https://yy.yy.sbs/) | [5](http://119.91.201.57:3000/) | [6](https://bxs.xiaoz.me/#/v2)
+[官网](https://chat.forchange.cn/) | 国内可用镜像站（无需科学工具直达）：[1](https://chat.forchange.cn/) | [2](https://so.csdn.net/so/chat) | [3](http://chat.h2ai.cn/home) | [4](https://yy.yy.sbs/) | [5](http://119.91.201.57:3000/) | [6](https://bxs.xiaoz.me/#/v2)
 
 ChatGPT（Chat Generative Pre-trained Transformer）是美国人工智能研究实验室OpenAI推出的人工智能技术驱动的自然语言处理工具，使用Transformer神经网络架构，通过连接大量的语料库来训练模型，拥有语言理解和文本生成能力
 
